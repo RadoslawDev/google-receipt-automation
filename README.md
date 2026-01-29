@@ -1,4 +1,4 @@
-[![CI Pipeline](https://github.com/RadoslawDev/google-receipt-automation/actions/workflows/main.yml/badge.svg?event=create)](https://github.com/RadoslawDev/google-receipt-automation/actions/workflows/main.yml)
+[![CI Pipeline](https://github.com/RadoslawDev/google-receipt-automation/actions/workflows/main.yml/badge.svg)](https://github.com/RadoslawDev/google-receipt-automation/actions/workflows/main.yml)
 AI Receipt Scanner (Google Workspace Edition)
 
 What does it do?
