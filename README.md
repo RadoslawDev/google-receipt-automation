@@ -10,6 +10,9 @@ This project is a "Set and Forget" automation solution.
 4. The data is transferred to a table in Google Sheets.
 5. The processed image is automatically archived.
 
+<img width="565" height="749" alt="image" src="https://github.com/user-attachments/assets/1b393ae1-2ac2-4045-8d64-8edb3fe57f39" />
+
+
 Key Features
 
 Intelligent OCR: Recognizes text even on crumpled receipts using Gemini Vision.
