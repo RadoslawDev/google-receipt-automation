@@ -12,6 +12,10 @@ This project is a "Set and Forget" automation solution.
 
 <img width="565" height="749" alt="image" src="https://github.com/user-attachments/assets/1b393ae1-2ac2-4045-8d64-8edb3fe57f39" />
 
+<img width="342" height="531" alt="image" src="https://github.com/user-attachments/assets/636546b8-c916-44df-abc1-ba2bdb5d5b2c" />
+
+<img width="1253" height="746" alt="image" src="https://github.com/user-attachments/assets/6c03f5ba-5088-4c58-adc4-e340b0578321" />
+
 
 Key Features
 
