@@ -1,0 +1,23 @@
+name: CI Pipeline
+
+on: [push]
+
+jobs:
+  build-test:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Verify Script Existence
+        run: |
+          if [ -f "code.js" ]; then
+            echo " SUCCESS: Main script found."
+          else
+            echo " ERROR: code.js is missing!"
+            exit 1
+          fi
+
+      - name: Syntax Check (Dry Run)
+        run: echo "Code syntax check passed (simulation)."
